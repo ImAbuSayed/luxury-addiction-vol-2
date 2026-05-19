@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luxury-addiction-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Luxury Addiction, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-addiction-vol-2/) |
+| **Get License** | [Music Rights & Licensing for Luxury Addiction, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-addiction-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਨੀ ਤੇਰੀਆਂ ਅੱਖਾਂ ਦਾ ਜਾਦੂ ਮੈਨੂੰ ਖਿੱਚਦਾ magic deep
+> ਮੈਂ ਤੇਰੇ ਇਸ਼ਕ ਚ ਜਾਗਦਾ ਹਾਂ ਛੱਡ ਕੇ ਮੇਰੀ sleep
+> ਹਨੇਰੀ ਰਾਤ ਵਿੱਚ ਤੇਰਾ ਹੁਸਨ ਚਮਕਦਾ bright
+> ਮੈਂ ਤੈਨੂੰ ਆਪਣੀ ਬਣਾਉਣਾ ਹਾਂ in the midnight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
