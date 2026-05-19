@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luxury-addiction-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Luxury Addiction, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-addiction-vol-2/) |
+| **Get License** | [Request Licensing for Luxury Addiction, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-addiction-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `78b3aef802d454ea6b6e91b4750fee2f18a1e888a8568e26868a3458693a60b8` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
